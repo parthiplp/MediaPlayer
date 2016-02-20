@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DMK</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">Dravida Munnetra Kazhagam</string>
+    <string name="title_activity_play_list">PlayList</string>
+</resources>
