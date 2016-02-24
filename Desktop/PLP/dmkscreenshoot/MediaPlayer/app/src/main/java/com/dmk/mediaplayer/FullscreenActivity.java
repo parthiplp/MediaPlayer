@@ -26,6 +26,7 @@ public class FullscreenActivity extends AppCompatActivity {
                 }finally{
                     Intent intent = new Intent(FullscreenActivity.this,PlayList.class);
                     startActivity(intent);
+                    finish();
                 }
             }
         };
